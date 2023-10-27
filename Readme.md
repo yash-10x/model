@@ -19,6 +19,10 @@
     - [x] https://www.kaggle.com/discussions/general/436613
 
 
-- [ ] making data useable
+- [ ] vectorize the data
+- [ ] store in chromadb
+- [ ] a function for similarity search
+- [ ] setup llm chains and promts
+- [ ] reteival of data
 
 - [ ] embedding it into an llm model
