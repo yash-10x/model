@@ -1,6 +1,6 @@
 # Todo List
 
-- [ ] Data
+- [x] Data
     - [ ] https://huggingface.co/datasets/nisaar/Indian_Const_Articles_LLAMA2_Format/tree/main
     - [ ] https://www.kaggle.com/datasets/anudit/india-legal-cases-dataset
     - [ ] https://huggingface.co/datasets/santoshtyss/indian_courts_cases/tree/main
