@@ -11,7 +11,7 @@
     - [ ] https://huggingface.co/datasets/ninadn/indian-legal
 - [ ] Data Cleaning
     - [ ]selecting the data which will be used
-    -[ ] vectorizing the data
+    - [ ] vectorizing the data
 
 
 - [x] References
