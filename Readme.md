@@ -10,7 +10,7 @@
     - [ ] 150_lawergpt_dataset_qna
     - [ ] https://huggingface.co/datasets/ninadn/indian-legal
 - [ ] Data Cleaning
-    - [ ]selecting the data which will be used
+    - [ ] selecting the data which will be used
     - [ ] vectorizing the data
 
 
