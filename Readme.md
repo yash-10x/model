@@ -16,7 +16,7 @@
 
 - [x] References
     - [x]https://huggingface.co/law-ai/InLegalBERT
-    -[x]https://www.kaggle.com/discussions/general/436613
+    - [x]https://www.kaggle.com/discussions/general/436613
 
 
 - [ ] making data useable
